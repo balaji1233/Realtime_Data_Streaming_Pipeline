@@ -70,7 +70,7 @@ The project is designed with the following components:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/airscholar/e2e-data-engineering.git
+    git clone https://github.com/balaji1233/Realtime_Data_Streaming_Pipeline.git
     ```
 
 2. Navigate to the project directory:
